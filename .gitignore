@@ -1,0 +1,24 @@
+antarctica-latest.osm.pbf
+coastlines_neu.txt
+coastlines_neu2.txt
+test_json.json
+.vscode/
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.json
+*.geojson
+*.pbf
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
